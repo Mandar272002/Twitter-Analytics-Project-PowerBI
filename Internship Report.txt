@@ -1,0 +1,57 @@
+Introduction - Hi, My Self Mandar Deshpande and This is my Internship Report on the Project that i did i:e Learn To Build Real Time Twitter Analytics Dashboard - Power BI and this report includes the Dates on which i completed that praticular task, Progress which indicate that it is completed or not, Task Name which show which task i am doing, Learning Objectives which includes what ojective i achieved from that task, Challenges and Solution tells what challenges i faced on that task and how did i found its solution and Finally the Conclusion of that particular Task that i did which tells what i gained from that task.
+
+
+
+Date - 27/07-2024
+Task1 - To Create Cluster Bar Chart that breaks down the sum of URL clicks, user profile clicks, and hashtag clicks by tweet category.
+Progress - Task Completed.
+Learning Objective -  Learned about how to apply filters in power bi, Learned about how to draw Cluster Bar Chart.
+Challenges and Solution - Challenge i faced was to figure out how to categorise tweets based on interactions and its Solution was to add a New Column to the Dataset.
+Conclusion - I have Successfully Completed Task No.1 and from this task i learned about Cluster Bar Chart, Filters.
+
+Date - 29/07/2024
+Task2 - Build a chart to identify the top 10 tweets by the sum of retweets and likes. Filter out tweets posted on weekends and show the user profile that posted each tweet.
+Progress - Task Completed.
+Learning Objective - Learned about how to apply advance filtering like TOP N and indentifying top 10 tweets based on Sum of retweets and likes and display them using Cluster Bar Chart Visualization.
+Challenges and Solution - The Challenge i had was to figure out how to show top 10 tweets based on sum of retweets and likes and also show user profile id So for this challenge the Solution was to create a two new column that will represent sum of retweets and likes and also a cloumn that represent UserProfile uniquley.
+Conclusion - I have Successfully Completed Task NO.2 and from this task i learned about how to apply different visuals and also learned about applying advanced filetering on the visual.
+
+Date - 02/08/2024
+Task3 - Create a line chart showing the trend of the average engagement rate over each month of the year. Separate the lines for tweets with media content and those without.
+Progress - Task Completed.
+Learning Objective - Learned about how to create a Line Chart and what does it visualize and create a graph to show tweets with media and without media over the period of time in months and seperate them.
+Challenges and Solution - The Challenge i faced in this task was to figure out how to seperate the tweets with media and without media because in my dataset i had only tweets with media and the solution i found was to use another tweeter dataset which contain tweets with and without media and use it to create a line graph.
+Conclusion - I have Successfully Completed Task No.3 and also i have learned about how line graph works and also learned about how to use another dataset with the existing dataset to create this line graph.
+
+Date - 06/08/2024
+Task4 - Develop a visualization that compares the number of replies, retweets, and likes for tweets that have received media engagements greater than the median value. Include a filter for tweets posted in the last six months.
+Progress - Task Completed.
+Learning Objective - Learned about how to create visualization to compare number of replies, retweets, likes for tweets and also learned about how to calculate median value for each tweets.
+Challenge and Solution - The Challenge i faced in this task was to figure out how to show the only tweets that have been posted for last six months coz my dataset doesnt contain the tweets that have been posted in last six months. so, i have to come up solution that would meet the task requirements. so, i set the filter according to the date that i have in my dataset for tweets posted.
+Conclusion - I have Successfully Completed Task No.4 and also learned about how to calculate the media value greater than Media Engagements and create visualization & aslo inlcude those tweets that have been posted in last six months (according to the date in my dataset).
+
+Date - 11/08/2024
+Task5 - Analyse tweets to show a comparison of the engagement rate for tweets with app opens versus tweets without app opens. Include only tweets posted between 9 AM and 5 PM on weekdays.
+Progress - Task Completed.
+Learning Objective - Learned about how to create visualization of comparing engagement rates for tweets with app opens versus tweets without app opens and show only tweets posted between the specified time given in the Task.
+Challenge and Solution - My first Challenge was to figure out how to seperate tweets and analyse tweets that are with app opens and without app opens so the Solution for this was to create a new column named 'App Opens' and analyse and seperate tweets based on App opens column, so after this my second challenge was to figure out how to show only tweets that are posted on weekdays and in between a given specified time so the solution for this was to a new column that is 'isWeekday' which will show which day is weekday and which is weekend and after that create a another column that is 'TweetHours' that will specify at which hour the specific was made which help me to show tweets that are between the specified time period.
+Conclusion - I have successfully Completed Task No.5 and also learned about how to show Comparision of engagement rates for tweets with app open versus without app open and alos learned about how to add Slicer and Filter to the Visual there properties to meet the Task Requirements.
+
+Date - 22/08/2024
+Task6 - Create a dual-axis chart that shows the number of media views and media engagements by the day of the week for the last quarter. Highlight days with significant spikes in media interactions.
+Progress - Task Completed.
+Learning Objective - In this Task I learned about how to create a dual-axis chart to show number of meadi views and media engagements by day of week for last quarter.
+Challenge and Solution - The Challenge i faced in this task was to figure how that how to show media views and engagements for the last quarter only, because my dataset had the tweets from 2020. So, the solution i found on this was to apply a filter and enter the date manually according to the date in my dataset.
+Conclusion - I have Successfully Completed Task No.6 and i have learned about what is the use of dual-axis chart and what does it represent or show and also learned about how to highlight the spikes in media interaction using the dual-axis chart.
+
+Date - 23/09/2024
+Task7 - Build a pie chart that represents the proportion of total clicks (URL clicks, user profile clicks, and hashtag clicks) for tweets with more than 500 impressions. Include a drill-down to view the specific types of clicks for each tweet.
+Progress - Task Completed.
+Learning Objective - In this Task i learned about what the pie chart is and it looks like and also what it is used for, also learned about how to create visualization to represent the proportion of total clicks for tweets with more that 500 impressions and how to add the drill down in the visual for specific types of clicks for tweet.
+Challenge and Solution - The Challenge i faced was that i was unable to figure out how to add Drill-Down Feature to the Visualization and also according to task you have to show Total clicks for tweets with 500 impressions so i was also stuck at how do i show Total clicks, so this where my challenges and the Solution for drill down feature i found after i did some research online and watched some videos about drill down and then i found out how to use drill down feature in visualization and about the total clicks, i just used the Url, Hashtag, Userprofile clicks from my dataset and add them in the Values Field to show Total Clicks on my Pie Chart Visualization.
+Conclsion - I have Successfully Completed Task No.7 and from this task i gained knowledge about the Pie chart Visualization and how to use it, and also learned about what is Drill-Down Feature and what it is Useful for.
+ 
+
+
+
+Conclusion - So, I have successfully Completed all the Task that where given in the Internship period within the time period of my internship i:e 3 months and I have gained alot of knowledge from this Internship Project about Datasets, PowerBI, How to use it, All its Tools, How to write DAX query, etc. Therefore, i think this internship helped me improve my skills on Data Analytics. 
